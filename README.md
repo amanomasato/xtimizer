@@ -4,38 +4,38 @@
 ### Команды для установки
  - Быстрая установка (curl):
 ```
-curl -fsSL https://raw.githubusercontent.com/nikonbite/xtimizer/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/amanomasato/xtimizer/main/install.sh | bash
 ```
  - Быстрая установка (wget):
 ```
 # С помощью wget
-wget -qO- https://raw.githubusercontent.com/nikonbite/xtimizer/main/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/amanomasato/xtimizer/main/install.sh | bash
 ```
  - Установка по этапам:
 ```
-wget https://raw.githubusercontent.com/nikonbite/xtimizer/main/install.sh
+wget https://raw.githubusercontent.com/amanomasato/xtimizer/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
  - Ручная установка:
 ```
-wget -O ~/.local/bin/xtimizer https://raw.githubusercontent.com/nikonbite/xtimizer/main/xtimizer
+wget -O ~/.local/bin/xtimizer https://raw.githubusercontent.com/amanomasato/xtimizer/main/xtimizer
 chmod +x ~/.local/bin/xtimizer
 ```
 
 ### Команды для удаления
  - Быстрое удаление (curl):
 ```
-curl -fsSL https://raw.githubusercontent.com/nikonbite/xtimizer/main/uninstall.sh | bash
+curl -fsSL https://raw.githubusercontent.com/amanomasato/xtimizer/main/uninstall.sh | bash
 ```
  - Быстрое удаление (wget):
 ```
 # С помощью wget
-wget -qO- https://raw.githubusercontent.com/nikonbite/xtimizer/main/uninstall.sh | bash
+wget -qO- https://raw.githubusercontent.com/amanomasato/xtimizer/main/uninstall.sh | bash
 ```
  - Удаление по этапам:
 ```
-wget https://raw.githubusercontent.com/nikonbite/xtimizer/main/uninstall.sh
+wget https://raw.githubusercontent.com/amanomasato/xtimizer/main/uninstall.sh
 chmod +x uninstall.sh
 ./uninstall.sh
 ```
@@ -60,4 +60,4 @@ chmod +x uninstall.sh
  - Видео: mp4, mkv, avi, mov, wmv, flv, webm, m4v, mpg, mpeg, 3gp
  - Изображения: jpg, jpeg, png, gif, bmp, tiff, tif, webp
   
-`made with ❤️ by @nikonbite`
+`made with ❤️ by @amanomasato`
